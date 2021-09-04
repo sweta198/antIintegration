@@ -3,4 +3,4 @@
 <target name="info">
 <echo>Helloworl.welcome to simplilearn devops</echo>
 </target>
-</project>
+</project name>
