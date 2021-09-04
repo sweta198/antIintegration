@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name=:sample project" default="info">
+<target name="info">
+<echo>Helloworl.welcome to simplilearn devops</echo>
+</target>
+</project>
